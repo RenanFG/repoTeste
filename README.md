@@ -2,9 +2,7 @@
 ***Repositório***
 
 `
-<!doctype html>
-<html lang=“pt-br”>
-	<head>
+
 		<title>Curso de Javascript</title>
 		<meta charset=“UTF-8”>
 		<script>
@@ -32,10 +30,4 @@
 
 			var timer=setInterval(relogio,1000);
 
-		</script>
-	</head>
-	<body>
-		<input type="text" id="rel">
-	</body>
-</html>
 `
