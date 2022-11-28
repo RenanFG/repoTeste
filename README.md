@@ -31,4 +31,20 @@
 
 `
 
+* Exemplo de um codigo PHP
+
+`
+<?php
+class Person {
+
+    function __construct() {
+        print "Você chamou a função construtora";
+    }
+    
+    function __destruct() {
+        print "Você chamou a função destruidora!";
+    }
+}
+?>
+`
 
