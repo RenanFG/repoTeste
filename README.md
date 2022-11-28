@@ -3,9 +3,6 @@
 
 `
 
-		<title>Curso de Javascript</title>
-		<meta charset=“UTF-8”>
-		<script>
 		
 			function relogio(){
 				var data=new Date();
