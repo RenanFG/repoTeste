@@ -1,6 +1,8 @@
 # ***repoTeste***
 ***Repositório***
 
+* Exemplo de um codigo javascript :
+
 `
 
 		
@@ -28,3 +30,5 @@
 			var timer=setInterval(relogio,1000);
 
 `
+
+
